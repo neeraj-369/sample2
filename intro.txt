@@ -1,6 +1,6 @@
 hello this is desktop and im neeraj
 and this is the second commit
 and this commit was from neeraj branch
-this is second time i commeted
+this is second time i commIted
 this is the commit in neeraj branch
 
